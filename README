@@ -1,0 +1,6 @@
+This is a simulation that makes use of a 4th-order Runge-Kutta approximation to simulate a compound pendulum with an arbitrary number of elements connected by springs. A data file is necessary to initialize the parameters. An example is provided.
+
+Required modules are:
+
+Numpy
+vpython
